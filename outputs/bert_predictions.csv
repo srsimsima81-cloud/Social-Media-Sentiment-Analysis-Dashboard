@@ -1,0 +1,21 @@
+text,true,predicted,confidence
+I love this phone,positive,positive,0.9997873902320862
+Worst customer support ever,negative,negative,0.9997960925102234
+Package delivered today,neutral,positive,0.9994450211524963
+Amazing product quality,positive,positive,0.9998844861984253
+Very disappointed with service,negative,negative,0.9997492432594299
+Nothing special product is okay,neutral,negative,0.9996223449707031
+Best purchase ever made,positive,positive,0.9998279809951782
+Terrible experience with seller,negative,negative,0.9990310668945312
+Item received yesterday,neutral,positive,0.9916182160377502
+Fantastic battery backup,positive,positive,0.9997252821922302
+Refund process is horrible,negative,negative,0.9993599057197571
+Product came in normal packaging,neutral,negative,0.9938123226165771
+Excellent design and smooth usage,positive,positive,0.9998471736907959
+Waste of money,negative,negative,0.9997931122779846
+Order arrived on time,neutral,positive,0.9032893776893616
+Great camera quality,positive,positive,0.9998781681060791
+Bad delivery experience,negative,negative,0.9998010993003845
+I received the order,neutral,positive,0.9990494847297668
+Highly recommended product,positive,positive,0.999825656414032
+Not worth buying,negative,negative,0.9997856020927429
